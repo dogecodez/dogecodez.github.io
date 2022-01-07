@@ -1,1 +1,2 @@
-# dogecodez.github.io
+# my website
+it's my website lol
